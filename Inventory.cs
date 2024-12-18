@@ -5,7 +5,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 
 public class InventoryTotalDetails
-{-
+{
     private static readonly HttpClient client = new HttpClient();
 
     // Get metadata about inventory total details including available fields and relationships
